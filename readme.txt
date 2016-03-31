@@ -7,7 +7,7 @@ Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Enables free input for fixed rate shipping options, like "pickup - $0, regular - $5, overnght - $10"
+Enables free input for fixed rate shipping options, like "pickup - $0, regular - $5, overnight - $10"
 
 == Description ==
 
