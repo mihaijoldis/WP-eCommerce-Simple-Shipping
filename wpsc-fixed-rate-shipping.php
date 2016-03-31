@@ -3,7 +3,7 @@
 Plugin Name: WP eCommerce Simple Shipping Rates (wpsc-simple-shipping)
 Plugin URI: https://wpecommerce.org
 Description: Enables free input for fixed rate shipping options, like "Pickup - $0, Regular - $5, Overnight - $10"
-Version: 1.2
+Version: 1.2.0
 Author: WP eCommerce
 Author URI: https://wpecommerce.org
 License: GPL2
